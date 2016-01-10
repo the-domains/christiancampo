@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ChristianCampo]]></title>
-        <description><![CDATA[ChristianCampo]]></description>
+        <title><![CDATA[Christian Campo]]></title>
+        <description><![CDATA[Christian Campo]]></description>
         <link>https://thegrid.ai/christiancampo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 18:49:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2016 21:12:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/christiancampo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/35aa87b2-fb51-427a-b7a3-76202bb99251.jpg">]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8773622-8d0c-4895-ac83-90ee3812cdbf.jpg">]]></description>
             <link>https://thegrid.ai/christiancampo/4999a220-9b3a-4b31-97a5-8b4613b552bf/index.html</link>
             <guid isPermaLink="false">4999a220-9b3a-4b31-97a5-8b4613b552bf</guid>
-            <pubDate>Sun, 10 Jan 2016 18:49:26 GMT</pubDate>
+            <pubDate>Sun, 10 Jan 2016 21:12:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
