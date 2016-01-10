@@ -4,7 +4,7 @@
         <description><![CDATA[ChristianCampo]]></description>
         <link>https://thegrid.ai/christiancampo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 18:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2016 18:49:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/christiancampo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/christiancampo/655e3c35-1326-4a25-adae-c517f629e8db/index.html</link>
             <guid isPermaLink="false">655e3c35-1326-4a25-adae-c517f629e8db</guid>
             <pubDate>Sun, 10 Jan 2016 18:18:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/35aa87b2-fb51-427a-b7a3-76202bb99251.jpg">]]></description>
+            <link>https://thegrid.ai/christiancampo/4999a220-9b3a-4b31-97a5-8b4613b552bf/index.html</link>
+            <guid isPermaLink="false">4999a220-9b3a-4b31-97a5-8b4613b552bf</guid>
+            <pubDate>Sun, 10 Jan 2016 18:49:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
